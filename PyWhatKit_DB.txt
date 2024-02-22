@@ -1,0 +1,35 @@
+Date: 9/1/2024
+Time: 14:25
+Phone Number: +5547999368853
+Message: oi mãe, esse é um texte de uma mensagem sendo enviada pelo python
+--------------------
+Date: 9/1/2024
+Time: 14:35
+Phone Number: +5547999368853
+Message: testando 1 2
+--------------------
+Date: 9/1/2024
+Time: 14:45
+Phone Number: +5547999368853
+Message: este é um teste do votos ele agora está mandando mensagens para o whatsapp
+--------------------
+Date: 9/1/2024
+Time: 14:45
+Phone Number: +5547999368853
+Message: mandou sozinho
+--------------------
+Date: 9/1/2024
+Time: 15:46
+Phone Number: +5547999368853
+Message: oi mãezinha tudo bem contigo
+--------------------
+Date: 7/2/2024
+Time: 22:27
+Phone Number: +5547991211500
+Message: oi mãe que horas você vem
+--------------------
+Date: 12/2/2024
+Time: 13:16
+Phone Number: +5547991211500
+Message: esse é um teste do voz testando 1 2 3
+--------------------
